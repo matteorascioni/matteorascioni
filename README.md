@@ -8,7 +8,7 @@ I'm Matteo, and I'm a React developer with two years of experience in crafting f
 
 * 🌍  I'm based in München, Deutschland 🇩🇪
 * ✉️  You can contact me at [matteorascioni@gmail.com](mailto:matteorascioni@gmail.com)
-* 🧠  I'm learning I'm currently learning Backend Development using python and I am an AI enthusiast.
+* 🧠  I'm currently learning Backend Development using python and I am an AI enthusiast.
 * 🤝  I'm open to collaborating on Interesting Web Application projects.
 * ⚡  I am secretly an expert boxer, but don't tell anyone because programmers are not allowed to play sports 👀
 
@@ -23,10 +23,6 @@ I'm Matteo, and I'm a React developer with two years of experience in crafting f
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/matteorascioni" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/matteorascioni/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<a href="https://github.com/matteorascioni" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteorascioni&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
